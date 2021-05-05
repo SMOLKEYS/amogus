@@ -13,7 +13,7 @@ let noBullet = extend(BasicBulletType, {
 module.exports = extend(Weapon, {
     rotate: true,
     mirror: false,
-    reload: 600,
+    reload: 60,
     x: 0,
     y: 0,
     shootSound: Sounds.none,
