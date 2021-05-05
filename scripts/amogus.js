@@ -1,5 +1,5 @@
-let killRange = 480;
-let killCooldown = 0;
+let killRange = 48;
+let killCooldown = 600;
 
 let amogus = extend(UnitType, "amogus", {
     health: 6969,
