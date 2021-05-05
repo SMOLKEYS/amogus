@@ -1,3 +1,3 @@
-require("sus")
-require("amogusEffect")
-require("amogus")
+require("sus");
+require("amogusEffect");
+require("amogus");

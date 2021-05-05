@@ -9,7 +9,7 @@ let noBullet = extend(BasicBulletType, {
     shootEffect: Fx.none,
     smokeEffect: Fx.none,
     despawnEffect: Fx.none,
-})
+});
 module.exports = extend(Weapon, {
     rotate: true,
     mirror: false,
